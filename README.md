@@ -8,19 +8,20 @@ This project focuses on analyzing consumer behavior in an e-commerce setting, pa
 
 - To understand key factors contributing to customer churn in an e-commerce environment.
 - To build predictive models using SAS e-Miner to identify customers at high risk of churning.
-- To utilize Talend Data Integration and Talend Data Prep for effective data cleaning, transformation, and preparation.
+- To utilize Talend Data Prep for effective data cleaning, transformation, and preparation.
+- To Produce insightful business opinions based on model analysis within SAS e-Miner
 
 ## Role of SAS e-Miner
 
-SAS e-Miner plays a crucial role in this project as the primary tool for data mining and advanced analytics. We employ various techniques such as decision trees, random forests, and boosting algorithms to model and predict churn. The insights derived from SAS e-Miner guide strategic decisions to enhance customer retention.
+SAS e-Miner plays a vital role in this project as a primary tool for data mining and advanced analytics. SAS was first used for outlier detection, followed by a variety of techniques such as decision trees, random forests and boosting algorithms to model and predict customer churn. The insights gained from SAS e-Miner guide strategic decisions that lead to improved customer retention.
 
 ## Role of Talend Data Integration
 
-Talend Data Integration is used for efficiently combining, transforming, and cleaning data from multiple sources. It ensures that the dataset used in SAS e-Miner is accurate, complete, and formatted correctly for optimal analysis results.
+The Talend Data Integration tool was not used for this project as a single dataset was used and no data integration operations were required.
 
 ## Role of Talend Data Prep
 
-Talend Data Prep is crucial for the initial stages of the project, where data needs to be preprocessed. It helps in refining the dataset by handling missing values, outliers, and ensuring data quality, which is essential for building reliable predictive models.
+Talend Data Prep is critical for the initial stages of projects that require pre-processing of data. We improve the quality of the data and refine the dataset by processing missing values and adding new columns, which is essential for building reliable predictive models later on.
 
 ---
 
